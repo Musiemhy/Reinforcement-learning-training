@@ -48,10 +48,10 @@ To get started with these projects, you can set up your Python environment using
         python train.py
         ```
 
-5.  For the ROCCA task:
+## For the ROCCA task:
 
-    The follwoing is the google docs link
+The follwoing is the google docs link
 
     ```bash
-    [ROCCA_Summary](https://docs.google.com/document/d/1_KNAFMoaR65en8PMhz7c0jZhYOISTBOZ8rkMubc6UcQ/edit?usp=sharing)
+    https://docs.google.com/document/d/1_KNAFMoaR65en8PMhz7c0jZhYOISTBOZ8rkMubc6UcQ/edit?usp=sharing
     ```
